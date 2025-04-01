@@ -820,7 +820,7 @@ class AssistentDolencies:
                     "Dolor engonal esquerre per tendinitis del psoes."
                     "dolor abdominal esquerre",
                     "dolor engonal esquerre",
-                    "dolor lumbar",
+                    "dolor lumbar baix esquerre",
                     "dolor gluti esquerre"
                 ],
                 "altres_símptomes": [
@@ -996,6 +996,9 @@ class AssistentDolencies:
                     "caràcter": "Persona introvertida, prudent, insegura, inadvertida, observadora, amb baixa autoestima i amb tendència a l'aïllament.",
                     "emocions": [
                         "Causa més comú: esgotament com a conseqüència de l’estrès, post estrès.",
+                        "Haver rebut una educació amb poc reforç en l'autoestima",
+                        "Trauma per haver estat abandonada pels pares, o no va tenir seguretat en l'entorn familiar, o no sentir-se cuidada pels pares",
+                        "Culpa en l'ambit de la sexualtitat",
                         "Autoestima danyada en l’àmbit de la parella, per sentir-se enganyada, abandonada, traïda, o poc valorada, no sentir-se una prioritat per a la parella.",
                         "Pors amb els fills, molt freqüents en dones (el problema és que tenen por elles i les traslladen als fills).",
                         "Tristor per malalties de llarga evolució amb deteriorament dels pares, habitual en gent que cuida dels pares.",
