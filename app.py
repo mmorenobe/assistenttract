@@ -817,11 +817,11 @@ class AssistentDolencies:
                     "Lumbàlgia a la zona lumbar baixa, de predomini esquerre, moltes vegades cronificada durant anys.",
                     "Ciàtica esquerra per hèrnia discal L5-S1.",
                     "Dolor abdominal esquerre per espasme de còlon descendent.",
-                    "Dolor engonal esquerre per tendinitis del psoes."
-                    "dolor abdominal esquerre",
-                    "dolor engonal esquerre",
-                    "dolor lumbar baix esquerre",
-                    "dolor gluti esquerre"
+                    "Dolor engonal esquerre per tendinitis del psoes.",
+                    "Dolor abdominal esquerre",
+                    "Dolor engonal esquerre",
+                    "Dolor lumbar baix esquerre",
+                    "Dolor gluti esquerre"
                 ],
                 "altres_símptomes": [
                             "Alternança entre diarrees davant de qualsevol estrès i posterior restrenyiment.",
@@ -841,7 +841,8 @@ class AssistentDolencies:
                     "Assegut: dolor i mobilitat excessiva cresta ilíaca esquerra amb el test de flexió assegut.",
                     "En supí, test de flexió de genolls, genoll esquerre més alt. I cama esquerra curta rotada internament.",
                     "En prono, giba esquerra i sacre orientat a l’esquerra.",
-                    "Dolor L1 lateral esquerra (aquesta vèrtebra normalment no fa mal en cap altre cas)."
+                    "Dolor L1 lateral esquerra (aquesta vèrtebra normalment no fa mal en cap altre cas).",
+                    "Dolor a la palpació de la fossa ilíaca esquerra (no sempre fa mal, però en alguns casos en fa molt.)"
                 ],
                 "a_tenir_en_compte": [
                     "Com que ve d’un patró de la infància (amor condicionat dels pares), costa de revertir.",
@@ -859,7 +860,7 @@ class AssistentDolencies:
                     "Sacroileitis esquerra.",
                     "Síndrome del piramidal esquerre, que en el fons és un fals síndrome del piramidal.",
                     "Ciàtica esquerra per hèrnia discal L5-S1.",
-                    "Dolor a l'engonal per tendinitis del psoes.",
+                    "Dolor engonal esquerre per tendinitis del psoes.",
                     "Lesions del bíceps femoral esquerre.",
                     "Tendinitis de la cintilla iliotibial esquerra o tendinitis del corredor.",
                     "Condromalàcia rotuliana esquerra o síndrome d'hiperpressió rotuliana.",
@@ -870,12 +871,12 @@ class AssistentDolencies:
                     "Lumbàlgia post estrès.",
                     "Fascitis plantar esquerra.",
                     "Artritis coxofemoral esquerra.",
-                    "dolor lumbar alt bilateral",
+                    "Dolor lumbar alt bilateral",
                     "Dolor lumbar esquerre",
-                    "dolor ambdós turmells",
+                    "Dolor ambdós turmells",
                     "Dolor ambdós peus",
                     "dolor peus",
-                    "dolor canell"
+                    "Dolor canell"
                 ],
                 "altres_símptomes": [
                     "Cansament, manca d'energia durant el dia.",
@@ -996,9 +997,9 @@ class AssistentDolencies:
                     "caràcter": "Persona introvertida, prudent, insegura, inadvertida, observadora, amb baixa autoestima i amb tendència a l'aïllament.",
                     "emocions": [
                         "Causa més comú: esgotament com a conseqüència de l’estrès, post estrès.",
-                        "Haver rebut una educació amb poc reforç en l'autoestima",
-                        "Trauma per haver estat abandonada pels pares, o no va tenir seguretat en l'entorn familiar, o no sentir-se cuidada pels pares",
-                        "Culpa en l'ambit de la sexualtitat",
+                        "Haver rebut una educació amb poc reforç en l'autoestima.",
+                        "Trauma per haver estat abandonada pels pares, o no va tenir seguretat en l'entorn familiar, o no sentir-se cuidada pels pares.",
+                        "Culpa en l'ambit de la sexualtitat.",
                         "Autoestima danyada en l’àmbit de la parella, per sentir-se enganyada, abandonada, traïda, o poc valorada, no sentir-se una prioritat per a la parella.",
                         "Pors amb els fills, molt freqüents en dones (el problema és que tenen por elles i les traslladen als fills).",
                         "Tristor per malalties de llarga evolució amb deteriorament dels pares, habitual en gent que cuida dels pares.",
