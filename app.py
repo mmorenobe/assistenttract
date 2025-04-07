@@ -317,6 +317,15 @@ class AssistentDolencies:
             "Tractament senzill per a síndrome piramidal esquerre": "Síndrome piramidal",
             "Tractament per a síndrome piramidal esquerre amb infusió": "Síndrome piramidal",
             "Tractament per a síndrome piramidal esquerre (més de 45-50 anys)": "Síndrome piramidal",
+            "Tractament per a síndrome piramidal esquerre amb hipertensió": "Síndrome piramidal",
+            "Ciàtica en major de 55 anys sense hipertensió": "Ciàtica esquerra",
+            "Ciàtica en major de 55 anys sense hipertensió i amb estrès": "Ciàtica esquerra",
+            "Ciàtica en major de 55 anys sense hipertensió i amb estrès i dolor cervical" : "Ciàtica esquerra",
+            "Ciàtica en major de 55 anys amb hipertensió" : "Ciàtica esquerra",
+            "Ciàtica en major de 55 anys amb hipertensió i estrès": "Ciàtica esquerra",
+            "Ciàtica en major de 55 anys amb hipertensió, estrès i problemes cervicals" : "Ciàtica esquerra",
+            "Ciàtica en menor de 55 anys" : "Ciàtica esquerra",
+            "Ciàtica en menor de 55 anys tractament simple" : "Ciàtica esquerra",
             "Tendinopatia de fàscia lata esquerra en pacient jove (menor de 45 anys)": "Tendinopatia de fàscia lata",
             "Tendinopatia de fàscia lata esquerra en pacient jove (menor de 45 anys) amb regles llargues i abundants": "Tendinopatia de fàscia lata",
             "Tendinopatia de fàscia lata esquerra en pacient major (més de 50 anys)": "Tendinopatia de fàscia lata",
@@ -739,8 +748,8 @@ class AssistentDolencies:
                     "Bloqueig del cap del peroné dret.",
                     "Derivat de l’augment de to de la cadena d’obertura dreta, pot haver-hi una fascitis plantar dreta.",
                     "Dolor engonal dret",
-                    "dolor gluti dret",
-                    "dolor genoll dret"
+                    "Dolor gluti dret",
+                    "Dolor genoll dret"
                 ],
                 "altres_símptomes": [
                     "Qualsevol alteració del procés digestiu: diarrees, restrenyiment, gasos, digestió lenta.",
@@ -896,7 +905,7 @@ class AssistentDolencies:
                         "Por. Manca d'autoestima, inseguretat, sentiment d'abandó.",
                         "També pot ser una persona que rep una pressió molt gran i se sent desbordada per la responsabilitat perquè té por de no poder estar a l’altura.",
                         "Aferrament al passat, malenconia... emocions d’intestí gros, però que sostingudes acaben afectant l’element següent i evolucionen cap a tristor.",
-                        "Estrès mantingut que després de passar per vesícula biliar/fetge i sistema nerviós acaba rebotant en l’element anterior, el ronyó."
+                        "Estrès mantingut que després de passar per vesícula biliar/fetge i sistema nerviós acaba rebotant en l’element anterior, el ronyó. En casos de CIÀTICA ESQUERRA i SÍNDROME PIRAMIDAL gairebé sempre és estrès"
                     ],
                     "nutrició": "Marisc, lactis (especialment el formatge), carn processada com els embotits, aliments amb sal afegida (atenció als encurtits), cafè, alcohol, dolços, verdures amb àcid oxàlic i medicaments nefrotòxics d'ús freqüent, com els antiinflamatoris."
                 },
