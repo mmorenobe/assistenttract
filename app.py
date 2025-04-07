@@ -884,7 +884,7 @@ class AssistentDolencies:
                     "Dolor lumbar esquerre",
                     "Dolor ambdós turmells",
                     "Dolor ambdós peus",
-                    "dolor peus",
+                    "Dolor peus",
                     "Dolor canell"
                 ],
                 "altres_símptomes": [
@@ -905,7 +905,7 @@ class AssistentDolencies:
                         "Por. Manca d'autoestima, inseguretat, sentiment d'abandó.",
                         "També pot ser una persona que rep una pressió molt gran i se sent desbordada per la responsabilitat perquè té por de no poder estar a l’altura.",
                         "Aferrament al passat, malenconia... emocions d’intestí gros, però que sostingudes acaben afectant l’element següent i evolucionen cap a tristor.",
-                        "Estrès mantingut que després de passar per vesícula biliar/fetge i sistema nerviós acaba rebotant en l’element anterior, el ronyó. En casos de CIÀTICA ESQUERRA i SÍNDROME PIRAMIDAL gairebé sempre és estrès"
+                        "Estrès mantingut que després de passar per vesícula biliar/fetge i sistema nerviós acaba rebotant en l’element anterior, el ronyó. En casos de CIÀTICA ESQUERRA i SÍNDROME PIRAMIDAL gairebé sempre és estrès."
                     ],
                     "nutrició": "Marisc, lactis (especialment el formatge), carn processada com els embotits, aliments amb sal afegida (atenció als encurtits), cafè, alcohol, dolços, verdures amb àcid oxàlic i medicaments nefrotòxics d'ús freqüent, com els antiinflamatoris."
                 },
@@ -988,11 +988,12 @@ class AssistentDolencies:
                     "Dolor al canell",
                     "Condromalàcia rotuliana ambdues cames (especialment noies joves i amb regles llargues i abundants)",
                     "Esperó calcani dret",
-                    "dolor turmells",
-                    "dolor peus",
-                    "dolor lumbar",
-                    "dolor genoll dret",
-                    "dolor gluti dret"
+                    "Fascitis plantar dreta",
+                    "Dolor turmells",
+                    "Dolor peus",
+                    "Dolor lumbar",
+                    "Dolor genoll dret",
+                    "Dolor gluti dret"
                 ],
                 "altres_símptomes": [
                     "Regla dolorosa, amb dolor lumbar.",
@@ -1054,12 +1055,13 @@ class AssistentDolencies:
                     "Tensió bessó dret",
                     "Dolor tibial posterior dret",
                     "Dolor bessó dret",
-                    "Esperó calcani dret"
-                    "dolor turmells",
-                    "dolor peus",
-                    "dolor lumbar",
-                    "dolor genoll dret",
-                    "dolor gluti dret"
+                    "Esperó calcani dret",
+                    "Fascitis plantar dreta",
+                    "Dolor turmells",
+                    "Dolor peus",
+                    "Dolor lumbar",
+                    "Dolor genoll dret",
+                    "Dolor gluti dret"
                 ],
                 "altres_símptomes": [
                     "Micció costosa, entretallada, amb disminució del raig.",
